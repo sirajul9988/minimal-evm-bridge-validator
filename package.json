@@ -1,0 +1,10 @@
+{
+  "name": "minimal-evm-bridge-validator",
+  "version": "1.0.0",
+  "description": "EVM Cross-chain Bridge Validator Logic",
+  "main": "validator.js",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "dotenv": "^16.4.1"
+  }
+}
